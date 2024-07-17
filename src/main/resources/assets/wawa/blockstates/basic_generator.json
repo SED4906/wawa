@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "wawa:block/basic_generator",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "wawa:block/basic_generator"
+    },
+    "facing=south": {
+      "model": "wawa:block/basic_generator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wawa:block/basic_generator",
+      "y": 270
+    }
+  }
+}
